@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: demo
+netty:
+  default:
+    allocator:
+      max-order: 3
+speakeasy:
+  config:
+    api-id: test-id
+    version-id: 1.0.0
